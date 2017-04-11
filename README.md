@@ -1,2 +1,2 @@
 # graduate_project
-my graduate project,identification verification code in python
+identify verification code with KNN algorithm in ML and BP in NN
