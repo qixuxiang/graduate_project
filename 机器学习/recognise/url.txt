@@ -1,0 +1,5 @@
+http://login.sina.com.cn/forgot/index?entry=weibo  £¨18328583441£©
+https://aq.qq.com/cn2/findpsw/pc/pc_find_pwd_input_account?source_id=1035 £¨1223790892£©
+https://passport.baidu.com/?getpass_index £¨18328583441@163.com£©
+https://accounts.alipay.com/console/querypwd/logonIdInputReset.htm?site=1&page_type=fullpage&scene_code=resetQueryPwd£¨18328583441£©
+https://aq.yy.com/p/pwd/fgt/index.do(1652188050/1223790892@qq.com)
